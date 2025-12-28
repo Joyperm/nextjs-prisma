@@ -1,5 +1,9 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+See all posts: https://nextjs-prisma-1xa3mq7i4-bluepis-projects.vercel.app/posts
+See all users: https://nextjs-prisma-1xa3mq7i4-bluepis-projects.vercel.app/
+Create new post: https://nextjs-prisma-1xa3mq7i4-bluepis-projects.vercel.app/posts/new
+
 ## Getting Started
 
 First, run the development server:
